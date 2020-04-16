@@ -20,7 +20,6 @@ telegram : t.me/indoghostsec
 # Preview
 ![Screenshot_20200416_174552](https://user-images.githubusercontent.com/63348744/79447519-31196e80-800a-11ea-8c14-ef22dd96bc9d.png)
 
-![Screenshot_20200416_174552](https://user-images.githubusercontent.com/63348744/79447519-31196e80-800a-11ea-8c14-ef22dd96bc9d.png)
 
 -----------------------------------
 
