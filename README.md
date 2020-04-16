@@ -41,4 +41,6 @@ $ git clone https://github.com/indoghostsec/RED_IG
 
 $ cd RED_IG
 
+$ pip2 install -r requirement.txt
+
 $ python2 redig.py
